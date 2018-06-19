@@ -1,0 +1,29 @@
+/*** BASE STYLES ***/
+
+body {
+  font-family: 'Aladin', sans-serif;
+  font-size: 30px;
+  color: White;
+  background-color: #111111;
+}
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+header #main-img-box {
+  padding: 20px 0px 10px;
+  width: 220px;
+  float: left;
+}
+
+header #marbar-box {
+  padding: 45px 0px 10px;
+  width: 300px;
+  float: left;
+}
+
+#soundcloud {
+  clear: both;
+}
